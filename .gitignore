@@ -1,0 +1,9 @@
+*.iso
+*.dmg
+*.qcow2
+*.utm/
+.DS_Store
+.env
+*.key
+id_rsa*
+id_ed25519*
